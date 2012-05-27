@@ -1,4 +1,4 @@
 latex-templates
 ===============
 
-My Latex templates for 
+My LaTeX templates for articles, theses and other documents.
